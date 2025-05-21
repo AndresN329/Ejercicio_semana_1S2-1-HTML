@@ -84,9 +84,3 @@ Diseñar una **barra de navegación horizontal** con enlaces, incluir **íconos*
 * **Texto Semántico:** `<strong>`, `<em>`, `<mark>`, `<blockquote cite="">`
 * **Iconos:** Font Awesome (`<i class="fas fa-search">`)
 * **Estilos en Línea:** Atributo `style` en HTML
-
----
-
-## 📌 Notas Finales
-
-Estos ejercicios refuerzan buenas prácticas de accesibilidad y estructura en desarrollo web con HTML5. Se recomienda revisar el código con herramientas como **Lighthouse** o **WAVE** para verificar accesibilidad y semántica correctamente implementadas.
