@@ -47,7 +47,7 @@ Practicar la creación de **tablas accesibles**, uso de **listas anidadas** y ap
 * Aplicación de estilos en línea como:
 
   ```html
-  style="border: 1px solid black; background-color: #f0f0f0;"
+  style="border: 1px solid black; background-color: #d4efff;"
   ```
 
 ---
